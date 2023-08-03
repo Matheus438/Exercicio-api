@@ -4,6 +4,7 @@ use App\Http\Controllers\ExercicioCinco;
 use App\Http\Controllers\ExercicioDez;
 use App\Http\Controllers\ExercicioDois;
 use App\Http\Controllers\ExercicioDoze;
+use App\Http\Controllers\ExercicioNove;
 use App\Http\Controllers\ExercicioOito;
 use App\Http\Controllers\ExercicioQuatro;
 use App\Http\Controllers\ExercicioSeis;
@@ -49,3 +50,5 @@ Route::get('exercicio/dez',
 Route::get('exercicio/doze', [ExercicioDoze::class, 'decrescente']);
 
 Route::get('exercicio/treze', [ExercicioTreze::class, 'divisiveis']);
+
+Route::get('exercicio/nove', [ExercicioNove::class, '']);
