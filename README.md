@@ -17,7 +17,7 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 
 1. Clone este repositório para o seu ambiente de desenvolvimento local utilizando o comando:
 ```
- git clone https://github.com/Regisjr246/exercicios-api.git
+ git clone https://github.com/Matheus438/Exercicio-api.git
 ```
 2. Acesse o diretório do projeto:
 ```
@@ -35,10 +35,9 @@ copy env.example .env
 ```
 code.
 ```
-# Insomnia 
+## insominia
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=exercicio%20api&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMatheus438%2FExercicio-api%2Fmain%2FInsomnia.json)
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Exerc%C3%ADcios%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FRegisjr246%2Fexercicios-api%2Fmain%2FInsomnia.json)
-```
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode utilizá-lo livremente para fins educacionais, comerciais ou pessoais.
