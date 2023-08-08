@@ -1,4 +1,4 @@
-# Exercícios API com PHP e Laravel
+# Projeto loja virtual
 
 Este projeto contém uma série de exercícios práticos para trabalhar com API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
 
